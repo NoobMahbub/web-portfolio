@@ -1,0 +1,26 @@
+h1{
+    font-size:50px;
+    font-family: 'Poppins', sans-serif;
+}
+.word-highlight{
+    color:orangered;
+}
+p{
+    /* font-size:17px; */
+}
+
+.half-width{
+    width:40%;
+    float:left;
+    /* padding: 2% 2% 0; */
+    margin-left:5%;
+}
+.half-width img{
+width:100%;
+}
+.KMR{
+    font-size:50px;
+    position:relative;
+    bottom:100px;
+    left:30px;
+}
