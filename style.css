@@ -1,6 +1,10 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
 h1{
     font-size:50px;
-    font-family: 'Poppins', sans-serif;
+    
 }
 .word-highlight{
     color:orangered;
@@ -21,6 +25,25 @@ width:100%;
 .KMR{
     font-size:50px;
     position:relative;
-    bottom:100px;
+    bottom:50px;
     left:30px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height:500px;
+}
+a{
+    text-decoration:none;
+}
+.link-btn{
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg,lightSalmon,
+    tomato);
 }
